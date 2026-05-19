@@ -1,6 +1,4 @@
-### edson
-
- errores por la noche.
+### 
 
 ```
 js · react · node · jest
