@@ -1,6 +1,6 @@
 ### edson
 
-javascript por el día. errores por la noche.
+ errores por la noche.
 
 ```
 js · react · node · jest
