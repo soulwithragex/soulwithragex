@@ -1,7 +1,7 @@
 ### 
 
 ```
-js · react · node · jest
+
 ```
 
 trabajo en cosas que no siempre terminan.<br>
