@@ -1,16 +1,14 @@
-## Hi there 👋
+### edson
 
-<!--
-**soulwithragex/soulwithragex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+javascript por el día. errores por la noche.
 
-Here are some ideas to get you started:
+```
+js · react · node · jest
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+trabajo en cosas que no siempre terminan.<br>
+a veces sí.
+
+---
+
+<sub>chile · [@soulwithragex](https://github.com/soulwithragex)</sub>
